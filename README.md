@@ -5,7 +5,7 @@ I am a recent graduate in MSc Computing and am currently studying the Google Cyb
 
 ## University Projects
 - <a href="https://github.com/alfredfh/software-development-1">Software Development 1</a>
-- <a href="https://google.com">Information Systems Engineering</a>
+- <a href="https://github.com/alfredfh/Information-Systems-Engineering">Information Systems Engineering</a>
 - <a href="https://google.com">Computer and Database Systems</a>
 - <a href="https://google.com">Software Development 2</a>
 - <a href="https://google.com">Programming for the web</a>
