@@ -9,6 +9,6 @@ I am a recent graduate in MSc Computing and am currently studying the Google Cyb
 - <a href="https://github.com/alfredfh/Computer-and-Database-Systems">Computer and Database Systems</a>
 - <a href="https://github.com/alfredfh/Software-Development-2">Software Development 2</a>
 - <a href="https://google.com">Programming for the web</a>
-- <a href="https://google.com">Web Design and Development</a>
+- <a href="https://github.com/alfredfh/Web-Design-and-Development">Web Design and Development</a>
 - <a href="https://github.com/alfredfh/Masters-Dissertation">Dissertation</a>
 
