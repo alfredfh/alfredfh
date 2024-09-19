@@ -15,5 +15,8 @@ I am a recent graduate in MSc Computing and am currently studying the Google Cyb
 ### Program languages used
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
+<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python logo" width="40"/>
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java logo" width="40"/>
+
 
 
