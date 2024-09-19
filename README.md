@@ -14,7 +14,16 @@ I am a recent graduate in MSc Computing and am currently studying the Google Cyb
 
 ### Program languages used
 
-<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python logo" width="40"/> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java logo" width="40"/> <img src="https://dotnet.microsoft.com/blob-assets/images/dotnet-icons/square.png" alt=".NET logo" width="40"/> <img src="https://i2.wp.com/www.ppsystems.se/wp-content/uploads/2017/03/C-logo.jpg?ssl=1" alt="C# logo" width="40"/> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL logo" width="40"/>  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5 logo" width="40"/> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3 logo" width="40"/> <img src="https://img.icons8.com/ios-filled/50/000000/bootstrap.png" alt="Bootstrap logo" width="40"/> <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP logo" width="40"/> ![Diagram.net](https://img.shields.io/badge/Diagram.net-00B2A9?style=for-the-badge&logo=diagram&logoColor=white)
+<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python logo" style="height: 40px;" />
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java logo" style="height: 40px;" />
+<img src="https://dotnet.microsoft.com/blob-assets/images/dotnet-icons/square.png" alt=".NET logo" style="height: 40px;" />
+<img src="https://i2.wp.com/www.ppsystems.se/wp-content/uploads/2017/03/C-logo.jpg?ssl=1" alt="C# logo" style="height: 40px;" />
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL logo" style="height: 40px;" />
+<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5 logo" style="height: 40px;" />
+<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3 logo" style="height: 40px;" />
+<img src="https://img.icons8.com/ios-filled/50/000000/bootstrap.png" alt="Bootstrap logo" style="height: 40px;" />
+<img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP logo" style="height: 40px;" />
+<img src="https://img.shields.io/badge/Diagram.net-00B2A9?style=for-the-badge&logo=diagram&logoColor=white" alt="Diagram.net" style="height: 40px;" />
 
 
 
