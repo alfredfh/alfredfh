@@ -12,3 +12,7 @@ I am a recent graduate in MSc Computing and am currently studying the Google Cyb
 - <a href="https://github.com/alfredfh/Web-Design-and-Development">Web Design and Development</a>
 - <a href="https://github.com/alfredfh/Masters-Dissertation">Dissertation</a>
 
+### Program languages used
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
